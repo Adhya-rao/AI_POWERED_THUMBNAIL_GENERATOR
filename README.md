@@ -246,21 +246,46 @@ http://localhost:5173
 
 Landing page introducing the platform.
 
+<img width="1615" height="810" alt="Screenshot 2026-05-29 184137" src="https://github.com/user-attachments/assets/94de4e8b-71f0-437d-b7f5-1207b654bb98" />
+
+<img width="786" height="820" alt="Screenshot 2026-05-29 184159" src="https://github.com/user-attachments/assets/eb7eb0bd-3038-47f2-ae35-9ba8487d7186" />
+
+
+
 ## 🎨 Generate Page
 
 Studio for generating and recreating thumbnails.
+
+<img width="1179" height="849" alt="Screenshot 2026-05-29 183138" src="https://github.com/user-attachments/assets/a01d176d-3444-4ce4-adba-a7103f799204" />
+
+<img width="1097" height="792" alt="Screenshot 2026-05-29 183104" src="https://github.com/user-attachments/assets/e4610449-ab22-4342-ac88-82bfbc02df84" />
+
+
 
 ## 📚 My Generations
 
 Shows user’s saved thumbnails.
 
+<img width="1483" height="817" alt="Screenshot 2026-05-29 183205" src="https://github.com/user-attachments/assets/46a4d654-ce9b-46f1-b4ef-f1b13ecdc119" />
+
+
 ## 🌍 Community Feed
 
 Displays public thumbnails from creators.
 
+<img width="763" height="609" alt="Screenshot 2026-05-29 190209" src="https://github.com/user-attachments/assets/7fe2950c-ee1b-45cf-84f2-184f0bc7d563" />
+
+
 ## 🔐 Authentication Page
 
 Login and signup system.
+
+<img width="1897" height="858" alt="Screenshot 2026-05-29 182606" src="https://github.com/user-attachments/assets/feda2cb2-2c78-40a0-a8d4-05b3f4a43074" />
+## Database System
+
+<img width="1190" height="728" alt="Screenshot 2026-05-29 190411" src="https://github.com/user-attachments/assets/5ca3f3f3-8014-4d73-9bd5-5188d96f5baf" />
+
+
 
 ---
 
